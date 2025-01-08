@@ -1,0 +1,18 @@
+baseURL = 'https://www.justwords.live/'
+languageCode = 'en-gb'
+title = 'JustWords'
+
+theme = 'docsy'
+
+copyright = '&copy; 2019–2025 Muscatech Ltd.'
+
+[params.ui]
+  navbar_logo = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+    [markup.goldmark.renderer]
+      unsafe = true
