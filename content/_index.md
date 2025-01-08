@@ -43,9 +43,11 @@ all your computers.
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-bible" title="Integrated Bible text" %}}
-JustWords integrates with the Bible in over 40 different translations. Other
+JustWords integrates with the Bible in over 70 different translations. Other
 languages coming soon!
 {{% /blocks/feature %}}
+
+[See all features](/features)
 
 {{% /blocks/section %}}
 

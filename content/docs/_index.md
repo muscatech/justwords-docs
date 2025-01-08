@@ -1,16 +1,11 @@
 +++
 date = '2025-01-08T20:02:26Z'
 draft = true
-title = 'Documentation'
-linkTitle = 'Documentation'
+title = 'User guide'
 
 [menu.main]
   weight = 40
 +++
-
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
 
 This section is where the user documentation for your project lives - all the
 information your users need to understand and successfully use your project.
