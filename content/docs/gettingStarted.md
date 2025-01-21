@@ -2,6 +2,7 @@
 date = '2025-01-08T21:13:17Z'
 draft = true
 title = 'Getting started'
+weight = 1
 +++
 
 Get started with JustWords in three steps.
