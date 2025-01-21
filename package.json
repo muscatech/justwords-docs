@@ -2,5 +2,8 @@
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "postcss-cli": "^11.0.0"
+  },
+  "scripts": {
+    "prepare": "cd themes/docsy && npm install"
   }
 }
