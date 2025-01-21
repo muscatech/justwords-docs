@@ -1,6 +1,5 @@
 +++
 date = '2025-01-07T18:39:22Z'
-draft = true
 title = 'JustWords | Simple lyric projection'
 description = 'Simple lyric projection that runs in your web browser'
 linkTitle = 'Home'
